@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+encoding//src/com/domain/PageBean.java=UTF-8
+encoding//src/com/utils/BeanFactory.java=UTF-8
+encoding//src/com/utils/DataSourceUtils.java=UTF-8
+encoding//src/com/utils/MailUtils.java=UTF-8
+encoding//src/com/utils/PaymentUtil.java=UTF-8
+encoding//src/com/utils/UUIDUtils.java=UTF-8
+encoding//src/com/utils/UploadUtils.java=UTF-8
+encoding//src/com/web/filter/EncodingFilter.java=UTF-8
